@@ -1,4 +1,4 @@
 # Simon-
-This is simon game...
+This is simon game.
 
 # Made by Hitesh gupta 
